@@ -4,7 +4,8 @@
 }
 .navbar-brand{
     display: inline-block;
-    width: 55px;
+    width: 70px;
+    height: auto;
 }
 .navbar-right{
     margin-top: 21px;
