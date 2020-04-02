@@ -1,0 +1,11 @@
+.nav-bar-default{
+    box-shadow: 0px 0px 2px gray;
+    height: 69px;
+}
+.navbar-brand{
+    display: inline-block;
+    width: 55px;
+}
+.navbar-right{
+    margin-top: 21px;
+}
